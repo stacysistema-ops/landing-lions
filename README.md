@@ -1,10 +1,6 @@
 # landing-lions
 Landing page para Casino Lions
-landing/
-│── index.html
-│── chica-leon.jpg      
-│── facebook.png         
-│── instagram.png        
+    
 
 <!doctype html>
 <html lang="es">
